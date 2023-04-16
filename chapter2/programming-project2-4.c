@@ -6,7 +6,7 @@
 int main()
 {
     float amount, tax;
-    
+
     amount = 0;
     printf("Enter an amount: ");
     scanf("%f", &amount);

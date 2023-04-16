@@ -9,5 +9,8 @@
 
 int main()
 {
-    printf("From the the examples given, the only identifier which is not legal in C is 100_bottles. This is because the identifier starts with a numeric character. An identifier in C may contain letters, digits, and underscores, but must begin with a letter or underscore.\n");
+    printf(
+        "From the the examples given, the only identifier which is not legal in C is 100_bottles. This is because the "
+        "identifier starts with a numeric character. An identifier in C may contain letters, digits, and underscores, "
+        "but must begin with a letter or underscore.\n");
 }

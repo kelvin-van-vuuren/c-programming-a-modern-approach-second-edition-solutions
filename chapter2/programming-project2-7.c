@@ -12,10 +12,10 @@ int main()
 
     int twenty = amount / 20;
     amount -= (20 * twenty);
-    
+
     int ten = amount / 10;
     amount -= (10 * ten);
-    
+
     int five = amount / 5;
     amount -= (5 * five);
 
